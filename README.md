@@ -1,10 +1,9 @@
-### Hi there 👋
+### 北漂程序猿 👋
+
+![Page Views Count](https://badges.toozhao.com/badges/01G5FBGMRC4VA7RQ0R5RB6E1SA/green.svg)
 
 <!--
-**changxiaokang/changxiaokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 北漂程序猿 ![Page Views Count](https://badges.toozhao.com/badges/01G5FBGMRC4VA7RQ0R5RB6E1SA/green.svg)
-
 [![K4NG's GitHub stats](https://github-readme-stats.vercel.app/api?username=changxiaokang)](https://github.com/changxiaokang)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changxiaokang)](https://github.com/changxiaokang)
-
