@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![](./res/InternetAge.gif)
 <p>
   <a href="https://github.com/changxiaokang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changxiaokang&hide=html,css&layout=compact" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changxiaokang&hide=html,css&layout=compact" height="150"/>
   </a>
   <a href="https://github.com/changxiaokang">
-    <img src="https://github-readme-stats.vercel.app/api?username=changxiaokang&show_icons=false&&hide=contribs,issues" width="425"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true" height="150"/>
   </a>
 </p>
