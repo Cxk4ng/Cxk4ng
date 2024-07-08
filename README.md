@@ -1,7 +1,5 @@
 ### 北漂程序猿 👋
 
-![Page Views Count](https://badges.toozhao.com/badges/01G5FBGMRC4VA7RQ0R5RB6E1SA/green.svg)
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
